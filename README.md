@@ -3,8 +3,6 @@
 ```shell
 npm install hexo -g
 
-npm install --save hexo-deployer-git
-
 npm install hexo-deployer-git --save
 ```
 

@@ -47,7 +47,7 @@ data_reactions_enabled: 0
 data_emit_metadata: 0
 data_input_position: top
 data_loading: 
-data_lang: en
+data_lang: zh
 
 # google analytics
 googleTrackId:

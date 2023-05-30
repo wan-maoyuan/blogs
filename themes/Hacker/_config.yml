@@ -1,6 +1,7 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
 
 # gitment
 gitment: false
@@ -47,7 +48,7 @@ data_reactions_enabled: 0
 data_emit_metadata: 0
 data_input_position: top
 data_loading: 
-data_lang: zh
+data_lang: zh-CN
 
 # google analytics
 googleTrackId:
@@ -57,11 +58,3 @@ baiduTrackId:
 
 # whether to show read more button when showing article in excerpt in main page
 read_more_btn: true
-
-favicon:
-  small: /images/favicon.ico
-  #medium: /images/favicon-32x32-next.png
-  medium: /images/favicon.ico
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
-  #android_manifest: /manifest.json

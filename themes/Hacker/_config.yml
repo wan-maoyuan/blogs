@@ -56,7 +56,7 @@ googleTrackId:
 baiduTrackId:
 
 # whether to show read more button when showing article in excerpt in main page
-read_more_btn: false
+read_more_btn: true
 
 favicon:
   small: /images/favicon.ico
